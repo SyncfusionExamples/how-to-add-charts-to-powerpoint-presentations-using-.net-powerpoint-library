@@ -1,5 +1,5 @@
 # How to Add Charts to PowerPoint Presentations using the .NET PowerPoint Library
-A quick start project that shows how to create Pie and Bar charts in PowerPoint presentation using the Syncfusion .NET PowerPoint Library.
+A quick start project that shows how to create Pie and Bar charts in PowerPoint presentation using the [.NET PowerPoint Library](https://www.syncfusion.com/document-processing/powerpoint-framework/net/powerpoint-library).
 
 ## Key Features
 -	Create a pie chart 
@@ -8,7 +8,7 @@ A quick start project that shows how to create Pie and Bar charts in PowerPoint 
 ## Resources
 
 - **Product page:** [Syncfusion PowerPoint Framework](https://www.syncfusion.com/document-processing/powerpoint-framework/net)
-- **Documentation:** [Convert PPTX to PDF using Syncfusion PowerPoint library](https://help.syncfusion.com/file-formats/presentation/presentation-to-pdf)
+- **Documentation:** [Create Charts in Presentation using Syncfusion PowerPoint library](https://help.syncfusion.com/file-formats/presentation/working-with-charts)
 - **GitHub Examples:** [Syncfusion PowerPoint library examples](https://github.com/SyncfusionExamples/PowerPoint-Examples)
 - **Online demo:** [Syncfusion PowerPoint library - Online demos](https://ej2.syncfusion.com/aspnetcore/PowerPoint/Default#/material3)
 
